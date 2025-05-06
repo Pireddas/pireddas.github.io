@@ -22,7 +22,7 @@ const personalInfo = {
     ],
     contact: {
         email: "mailto:ralfpiredda@gmail.com",
-        linkedin: "https://linkedin.com/in/dilermando",
+        linkedin: "https://linkedin.com/in/ralfpereira",
         facebook: "",
         instagram: ""
     }
