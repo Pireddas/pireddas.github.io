@@ -2,7 +2,7 @@
 const personalInfo = {
     name: "Ralf Pereira",
     profileImage: "piredda.jpg", // URL da imagem de perfil
-    aboutText: "Sou um professor de ciência de dados apaixonado por inovação e tecnologia.",
+    aboutText: "Sou um profissional de ciência de dados apaixonado por inovação e tecnologia.",
     projects: [
         {
             title: "Sistema de Gerenciamento de Estudantes",
